@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">C Programming</string>
+
+    <string name="bottom_tab1">Programmes</string>
+    <string name="bottom_tab2">Theory</string>
+    <string name="bottom_tab3">Questions</string>
+    <string name="bottom_tab4">Join Us</string>
+    <string name="bottom_tab5">Notification</string>
+    
+    <string name="top_tab1">All</string>
+    <string name="top_tab2">Array</string>
+    <string name="top_tab3">Basic</string>
+    <string name="top_tab4">Data Structure</string>
+    <string name="top_tab5">File Handling</string>
+    <string name="top_tab6">formula</string>
+    <string name="top_tab7">Functions</string>
+    <string name="top_tab8">Loop</string>
+    <string name="top_tab9">Others</string>
+    <string name="top_tab10">Number</string>
+    <string name="top_tab11">Conversion</string>
+    <string name="top_tab12">Pattern</string>
+    <string name="top_tab13">Pointer</string>
+    <string name="top_tab14">Recursion</string>
+    <string name="top_tab15">Sort</string>
+    <string name="top_tab16">String</string>
 </resources>
